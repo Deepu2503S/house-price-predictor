@@ -2,6 +2,8 @@
 
 This is my first Machine Learning project — a simple **Linear Regression model** to predict California housing prices based on various features such as location, income, and demographics.
 
+P.S. - The code is fully written by me😄.
+
 ## 📂 Dataset
 
 - 📁 `housing.csv`: California Housing Dataset
